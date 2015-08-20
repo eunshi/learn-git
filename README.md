@@ -1,2 +1,2 @@
 # learn-git
-Test repository for git learning purpose
+This is a test repository to learn git collaboration with github.
